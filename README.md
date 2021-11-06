@@ -222,3 +222,4 @@ String retornada:
 **Obs:** pesquisar por algo similar a `get all integers inside a string js`.
 
 ---
+_by Cleber Lopes Teixeira | Trybe - Turma 09_ :v: :rocket:
